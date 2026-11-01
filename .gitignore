@@ -1,0 +1,19 @@
+# Java compilation output
+bin/
+*.class
+
+# IDE and Editor configuration
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
+
